@@ -3,7 +3,7 @@ layout: post
 title: 'O cenário eleitoral de 2026 e a polarização persistente no Brasil'
 author: bememfoco
 categories: [Politica]
-image: 
+image: https://res.cloudinary.com/dlbswijfu/image/upload/v1774996236/alckmin_lfwzsc.jpg
 ---
 
 O cenário político brasileiro em 2026 é marcado por uma forte continuidade da polarização que já domina o país há anos. De um lado, o presidente Luiz Inácio Lula da Silva busca a reeleição com uma estratégia de coalizão ampla. Do outro, a direita se reorganiza em torno de nomes ligados ao bolsonarismo, especialmente Flávio Bolsonaro, que desponta como um dos principais adversários.

@@ -124,7 +124,6 @@ Mesmo sendo estático, esse projeto foi pensado para evoluir facilmente para:
 * APIs para conteúdo dinâmico
 * Migração para arquitetura híbrida (SSG + SSR)
 
----
 
 ## 🧪 Possíveis melhorias futuras
 
@@ -134,7 +133,6 @@ Mesmo sendo estático, esse projeto foi pensado para evoluir facilmente para:
 * Sistema de busca
 * Integração com analytics (ex: Firebase / GA4)
 
----
 
 ## 🎯 Objetivo como projeto de portfólio
 
@@ -146,14 +144,13 @@ Este projeto demonstra:
 * Uso de **ferramentas modernas com baixo custo**
 * Mentalidade de produto (monetização + crescimento)
 
----
+
 
 ## 📄 Licença
 
 Baseado no tema **Mundana (MIT License)**
 Customizações: © Bem em Foco
 
----
 
 ## 👨‍💻 Autor
 

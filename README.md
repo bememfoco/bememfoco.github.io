@@ -112,7 +112,6 @@ image: assets/images/exemplo.jpg
 Conteúdo aqui...
 ```
 
----
 
 ## 📈 Escalabilidade do projeto
 

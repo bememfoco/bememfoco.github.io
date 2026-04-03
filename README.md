@@ -2,7 +2,6 @@
 
 🔗 **Acesse:** [https://bememfoco.com.br/](https://bememfoco.com.br/)
 
----
 
 ## 🚀 Visão geral
 
@@ -10,7 +9,6 @@ O **Bem em Foco** é um portal de conteúdo desenvolvido com arquitetura **está
 
 Este projeto foi criado não apenas como um site de conteúdo, mas como um **case prático de engenharia frontend e arquitetura web enxuta**, simulando decisões reais de produção.
 
----
 
 ## 🧠 Decisões técnicas (o que diferencia esse projeto)
 
@@ -24,7 +22,6 @@ Uso do **Jekyll** para gerar páginas estáticas, eliminando a necessidade de ba
 * Alta performance (TTFB extremamente baixo)
 * Super seguro (sem ataques comuns como SQL Injection)
 
----
 
 ### 🔍 SEO como prioridade
 
@@ -36,7 +33,6 @@ O projeto foi estruturado pensando em indexação orgânica:
 * Imagens otimizadas
 * Estrutura pronta para **Google AdSense**
 
----
 
 ### 💰 Pronto para monetização
 
@@ -44,7 +40,6 @@ O projeto foi estruturado pensando em indexação orgânica:
 * Performance otimizada (impacta diretamente no AdSense)
 * Conteúdo escalável via `_posts`
 
----
 
 ### 🚀 Deploy simplificado (CI/CD básico)
 
@@ -60,7 +55,6 @@ Sem necessidade de:
 * Docker
 * Configuração de servidor
 
----
 
 ## 🛠️ Stack utilizada
 
@@ -70,7 +64,6 @@ Sem necessidade de:
 * **Git & GitHub** — versionamento
 * **GitHub Pages** — hospedagem
 
----
 
 ## 📂 Estrutura do projeto
 
@@ -84,7 +77,6 @@ Sem necessidade de:
 └── index.html    # Página inicial
 ```
 
----
 
 ## ⚙️ Rodando localmente
 
@@ -97,7 +89,6 @@ bundle exec jekyll serve
 Acesse:
 [http://localhost:4000](http://localhost:4000)
 
----
 
 ## ✍️ Criação de conteúdo escalável
 

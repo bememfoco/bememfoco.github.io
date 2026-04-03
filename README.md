@@ -169,6 +169,3 @@ Customizações: © Bem em Foco
 **Luis Trindade**
 Desenvolvedor Full Stack especializado em aplicações web modernas.
 
----
-
-Qual você quer?

@@ -1,7 +1,3 @@
-Perfeito — vou transformar seu README em algo que **vende você como desenvolvedor fullstack**, não só o site. A ideia aqui é parecer um projeto simples por fora, mas com **decisões técnicas claras por trás** (isso pesa MUITO em recrutador).
-
----
-
 # 📰 Bem em Foco — Portal de Conteúdo Otimizado para SEO
 
 🔗 **Acesse:** [https://bememfoco.com.br/](https://bememfoco.com.br/)

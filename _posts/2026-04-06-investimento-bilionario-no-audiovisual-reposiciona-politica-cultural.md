@@ -2,7 +2,7 @@
 layout: post
 title: 'Investimento bilionário no audiovisual movimenta política cultural'
 author: bememfoco
-categories: [Política]
+categories: [Politica]
 image: https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=80
 ---
 

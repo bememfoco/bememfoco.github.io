@@ -2,7 +2,7 @@
 layout: post
 title: 'Nova política antidrogas dos EUA gera tensões e preocupa América Latina'
 author: bememfoco
-categories: [Política]
+categories: [Politica]
 image: https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Capitol.jpg
 tags: [sticky]
 ---

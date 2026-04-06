@@ -3,7 +3,7 @@ layout: post
 title: 'ECA Digital amplia debate sobre segurança infantil na internet no Brasil'
 author: bememfoco
 categories: [Política]
-image: https://upload.wikimedia.org/wikipedia/commons/5/5c/Internet_map_1024.jpg
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Internet%20map%201024.jpg
 ---
 
 A recente discussão sobre o chamado “ECA Digital” reacendeu um dos debates mais importantes da atualidade: como proteger crianças e adolescentes em um ambiente digital cada vez mais complexo e presente no cotidiano. A proposta busca atualizar o Estatuto da Criança e do Adolescente para lidar com desafios modernos, como redes sociais, exposição online e crimes digitais.

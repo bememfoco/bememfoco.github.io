@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Investimento bilionário no audiovisual reposiciona política cultural'
-author: bem-em-foco
+author: bememfoco
 categories: [Política]
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Film%20set.jpg
 ---
 
 O governo federal anunciou um novo plano de investimento no setor audiovisual, movimentando o cenário político e cultural do país.
 
-De acordo com essa matéria do <a href="https://www.gov.br/cultura/pt-br/assuntos/noticias/minc-aprova-plano-de-r-1-4-bilhao-para-o-audiovisual-e-avanca-na-reestruturacao-do-fsa"> Governo Federal, o investimento será dividido entre financiamento direto e operações de crédito.
+De acordo com essa matéria do <a href="https://www.gov.br/cultura/pt-br/assuntos/noticias/minc-aprova-plano-de-r-1-4-bilhao-para-o-audiovisual-e-avanca-na-reestruturacao-do-fsa" target="_blank"> Governo Federal</a>, o investimento será dividido entre financiamento direto e operações de crédito.
 
 #### Cultura como estratégia política
 

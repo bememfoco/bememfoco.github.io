@@ -4,7 +4,6 @@ title: 'Mudanças no governo intensificam cenário eleitoral de 2026'
 author: bememfoco
 categories: [Política]
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Pal%C3%A1cio%20do%20Planalto.jpg
-tags: [sticky]
 ---
 
 O cenário político brasileiro começa a ganhar contornos mais definidos à medida que o país se aproxima das eleições gerais de 2026. Um dos principais movimentos recentes foi a saída de ministros do governo federal para disputar cargos eletivos, evidenciando a antecipação da corrida eleitoral e a reorganização das forças políticas no país.

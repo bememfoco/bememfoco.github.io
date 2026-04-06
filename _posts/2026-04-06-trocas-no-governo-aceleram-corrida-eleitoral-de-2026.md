@@ -2,7 +2,7 @@
 layout: post
 title: 'Mudanças no governo intensificam cenário eleitoral de 2026'
 author: bememfoco
-categories: [Política]
+categories: [Politica]
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Pal%C3%A1cio%20do%20Planalto.jpg
 ---
 

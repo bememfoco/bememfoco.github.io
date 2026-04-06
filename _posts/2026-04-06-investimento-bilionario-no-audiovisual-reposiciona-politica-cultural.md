@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 'Investimento bilionário no audiovisual reposiciona política cultural'
-author: jane
+author: bem-em-foco
 categories: [Política]
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Film%20set.jpg
-tags: [sticky]
 ---
 
 O governo federal anunciou um novo plano de investimento no setor audiovisual, movimentando o cenário político e cultural do país.

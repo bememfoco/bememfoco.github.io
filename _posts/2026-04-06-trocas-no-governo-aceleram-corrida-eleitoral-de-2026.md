@@ -8,7 +8,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Pal%C3%A1cio%20do%20P
 
 O cenário político brasileiro já começa a se reorganizar com foco nas eleições de 2026. Nos últimos meses, mudanças estratégicas dentro do governo federal indicam que a disputa eleitoral começou antes mesmo do período oficial de campanha. Ministros deixaram seus cargos para se preparar para candidaturas, sinalizando uma movimentação típica, porém intensa, dentro da política nacional.
 
-De acordo com essa matéria da <a href="https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/governo-federal-faz-mais-duas-trocas-em-ministerios-antes-das-eleicoes">Agência Brasil</a>, nomes importantes como Marina Silva e Renan Filho deixaram seus ministérios para concorrer nas próximas eleições.
+De acordo com essa matéria da <a href="https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/governo-federal-faz-mais-duas-trocas-em-ministerios-antes-das-eleicoes" target=_blank>Agência Brasil</a>, nomes importantes como Marina Silva e Renan Filho deixaram seus ministérios para concorrer nas próximas eleições.
 
 #### Impacto administrativo e político
 

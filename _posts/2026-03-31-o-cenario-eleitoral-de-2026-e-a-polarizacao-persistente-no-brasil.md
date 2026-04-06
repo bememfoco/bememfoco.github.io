@@ -2,7 +2,7 @@
 layout: post
 title: 'O cenário eleitoral de 2026 e a polarização persistente no Brasil'
 author: bememfoco
-categories: [Politica]
+categories: [Política]
 image: https://res.cloudinary.com/dlbswijfu/image/upload/v1774996236/alckmin_lfwzsc.jpg
 ---
 

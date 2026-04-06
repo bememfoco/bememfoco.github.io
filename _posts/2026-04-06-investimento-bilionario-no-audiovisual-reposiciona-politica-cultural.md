@@ -3,7 +3,7 @@ layout: post
 title: 'Investimento bilionário no audiovisual movimenta política cultural'
 author: bememfoco
 categories: [Política]
-image: https://upload.wikimedia.org/wikipedia/commons/7/7d/Cinema_projector.jpg
+image: image: https://commons.wikimedia.org/wiki/Special:FilePath/Cinema%20projector.jpg
 ---
 
 O governo federal anunciou um novo plano de investimentos para o setor audiovisual, destacando a cultura como um eixo estratégico para o desenvolvimento econômico e social do país. A iniciativa prevê bilhões em investimentos e busca revitalizar um setor que tem grande potencial de geração de emprego e renda.

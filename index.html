@@ -39,7 +39,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                 </span>                   
         </small>
         <small class="text-muted">
-            {{ latest_post.date | date: '%b %d, %Y' }}
+            {{ latest_post.date | date: '%d/%m/%Y' }}
         </small>
     </div>
     </div>
@@ -70,7 +70,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ second_post.date | date: '%b %d, %Y' }}
+                        {{ second_post.date | date: '%d/%m/%Y' }}
                     </small>
                 </div>
             </div>
@@ -97,7 +97,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ third_post.date | date: '%b %d, %Y' }}
+                        {{ third_post.date | date: '%d/%m/%Y' }}
                     </small>
                 </div>
             </div>
@@ -124,7 +124,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ fourth_post.date | date: '%b %d, %Y' }}
+                        {{ fourth_post.date | date: '%d/%m/%Y' }}
                     </small>
                 </div>
             </div>
@@ -146,7 +146,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                 </p>
                 <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});">	
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{ post.image }});">	
             </div>
         </div>
     </div>

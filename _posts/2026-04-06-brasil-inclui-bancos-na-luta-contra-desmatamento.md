@@ -3,7 +3,7 @@ layout: post
 title: 'Brasil envolve bancos no combate ao desmatamento e muda estratégia ambiental'
 author: bememfoco
 categories: [Política]
-image: https://upload.wikimedia.org/wikipedia/commons/6/6c/Amazon_rainforest.jpg
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Amazon%20rainforest.jpg
 ---
 
 O governo brasileiro implementou uma nova estratégia para combater o desmatamento ilegal na Amazônia, envolvendo diretamente instituições financeiras no processo de fiscalização ambiental. A medida representa uma mudança significativa na política ambiental do país, ao transferir parte da responsabilidade de controle para o setor bancário.

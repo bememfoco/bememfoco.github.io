@@ -3,7 +3,7 @@ layout: post
 title: 'Brasil e União Europeia avançam em acordo estratégico de minerais críticos'
 author: bememfoco
 categories: [Política]
-image: https://upload.wikimedia.org/wikipedia/commons/1/1b/Lithium_mine.jpg
+image: https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&w=1600&q=80
 ---
 
 A nova política antidrogas dos Estados Unidos tem gerado preocupação em diversos países, especialmente na América Latina. A estratégia, marcada por maior rigor e presença militar, representa uma mudança significativa na abordagem adotada nos últimos anos.

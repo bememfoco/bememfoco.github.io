@@ -2,7 +2,7 @@
 layout: post
 title: 'Brasil envolve bancos no combate ao desmatamento e muda estratégia ambiental'
 author: bememfoco
-categories: [Política]
+categories: [Politica]
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Amazon%20rainforest.jpg
 ---
 

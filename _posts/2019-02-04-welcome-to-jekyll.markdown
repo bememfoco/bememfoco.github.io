@@ -1,26 +1,25 @@
 ---
 layout: post
-title: 'Welcome to Jekyll!'
-categories: [Esportes]
-image: assets/images/demo1.jpg
+title: 'ECA Digital reacende debate sobre regulação da internet'
+author: bememfoco
+categories: [Política]
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Internet%20map.jpg
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+A aprovação do chamado ECA Digital marca um novo capítulo na regulação da internet no Brasil.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+De acordo com essa matéria do <a href="https://www12.senado.leg.br/noticias/materias/2026/04/06/para-ser-efetivo-eca-digital-depende-de-mudanca-de-cultura-aponta-debate" target="_blank">Senado</a>, especialistas afirmam que a lei depende de mudança cultural.
 
-Jekyll also offers powerful support for code snippets:
+#### Desafios da implementação
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+A legislação estabelece responsabilidades para plataformas digitais.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+#### Debate político
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+O tema gera consenso, mas há divergências sobre regulação.
+
+#### Educação digital
+
+A educação digital é essencial para o sucesso da lei.
+
+Em resumo, o ECA Digital é um avanço importante, mas desafiador.

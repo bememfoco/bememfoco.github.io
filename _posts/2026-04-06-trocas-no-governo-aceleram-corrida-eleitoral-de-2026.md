@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trocas no governo aceleram corrida eleitoral de 2026'
-author: bem-em-foco
+author: bememfoco
 categories: [Política]
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Pal%C3%A1cio%20do%20Planalto.jpg
 ---

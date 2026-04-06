@@ -2,7 +2,7 @@
 layout: post
 title: 'ECA Digital amplia debate sobre segurança infantil na internet no Brasil'
 author: bememfoco
-categories: [Política]
+categories: [Politica]
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Internet%20map%201024.jpg
 ---
 

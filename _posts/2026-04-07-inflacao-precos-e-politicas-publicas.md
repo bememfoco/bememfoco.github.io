@@ -2,7 +2,7 @@
 layout: post
 title: 'Economia nacional em 2026: projeções, inflação e indústria em foco'
 author: bememfoco
-categories: [Economia Nacional]
+categories: [Economia Nacional, Economia]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ponte_estaiada_Octavio_Frias_-_Sao_Paulo.jpg/960px-Ponte_estaiada_Octavio_Frias_-_Sao_Paulo.jpg?_=20091123074506
 tags: [featured]
 ---

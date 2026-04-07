@@ -4,6 +4,7 @@ title: 'Crise global de energia e inflação redesenha projeções da economia m
 author: bememfoco
 categories: [Economia Mundial]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mercator_projection_SW.jpg/960px-Mercator_projection_SW.jpg?_=20251127104313
+tags: [featured]
 ---
 
 A economia mundial vive um momento de elevada incerteza em abril de 2026, com efeitos diretos de choques geopolíticos, energia mais cara e revisões nos principais indicadores de crescimento e inflação. Nesta terça‑feira, 7 de abril, economistas e instituições financeiras globais divulgam sinais de que a crise impulsionada pela guerra no Oriente Médio — em particular o bloqueio do Estreito de Hormuz — terá um impacto profundo na trajetória da economia global nos próximos meses. ([NEOS KOSMOS][1])

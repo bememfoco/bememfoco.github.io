@@ -4,6 +4,7 @@ title: 'Eleicoes na Colômbia e pressão de observadores estrangeiros'
 author: bememfoco
 categories: [Política Internacional]
 image: https://upload.wikimedia.org/wikipedia/commons/3/35/The_National_Capitol_of_the_Republic_of_Colombia_seen_from_the_famed_gardens_of_the_Plaza_de_Armas.png?_=20240318204810
+tags: [featured]
 ---
 
 O cenário internacional entra em foco nesta terça‑feira, **7 de abril de 2026**, com desdobramentos políticos que ultrapassam fronteiras a partir de eventos em países como **Colômbia**, e tensões relacionadas à **segurança global e observação internacional de eleições**. Enquanto o mundo acompanha conflitos e negociações em grandes arenas diplomáticas, autoridades e candidatos políticos em diversas regiões apelam a instituições multilaterais para garantir justiça e transparência em processos eleitorais — um tema que está no centro de debates continentais e que pode ter repercussões além das fronteiras nacionais. ([www.vanguardia.com][1])

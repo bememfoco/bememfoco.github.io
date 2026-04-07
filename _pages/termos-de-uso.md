@@ -1,6 +1,7 @@
+---
 title: "Termos de Uso"
 permalink: "/termos-de-uso.html"
---------------------------------
+---
 
 # 📝 Termos de Uso — Bem em Foco
 

@@ -4,6 +4,7 @@ title: 'Esportes em destaque nesta terça‑feira: futebol movimentado, maratona
 author: bememfoco
 categories: [Esportes]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CBF_Fachada_3.jpg/960px-CBF_Fachada_3.jpg?_=20150531012936
+tags: [featured]
 ---
 
 O dia 7 de abril de 2026 promete ser intenso no calendário esportivo internacional e no Brasil, com competições importantes em diferentes modalidades e reflexos de debates e decisões que movimentam o ambiente esportivo. Desde partidas decisivas de futebol na América do Sul e Europa até grandes anúncios sobre eventos atléticos globais, os torcedores terão muitos motivos para acompanhar os esportes ao vivo nesta terça‑feira.

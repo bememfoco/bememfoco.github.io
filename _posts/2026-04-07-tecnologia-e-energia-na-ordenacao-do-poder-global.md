@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26-04-07-politica-internacional-tecnologia-e-energia-na-ordenacao-do-poder-global'
+title: 'Tecnologia e energia na ordenacao do poder global'
 author: bememfoco
 categories: [Política Internacional, Politica]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Science%2C_Technology_and_Engineering.jpg/960px-Science%2C_Technology_and_Engineering.jpg?_=20210810181100

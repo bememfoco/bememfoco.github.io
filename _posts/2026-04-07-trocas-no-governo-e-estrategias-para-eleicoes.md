@@ -2,8 +2,9 @@
 layout: post
 title: 'Panorama atualizado da política nacional brasileira em 07/04/2026'
 author: bememfoco
-categories: [Politica]
+categories: [Politica, Politica Nacional]
 image: https://upload.wikimedia.org/wikipedia/commons/8/84/Palacio_do_Planalto.jpeg
+tags:[featured]
 ---
 
 A política nacional brasileira segue em ritmo intenso às vésperas da eleição presidencial de outubro de 2026, com movimentações partidárias, debates sobre leis, e mudanças significativas no cenário político. Nos últimos dias, uma série de acontecimentos tem marcado os bastidores do Planalto e do Congresso, apontando para uma disputa cada vez mais competitiva e fragmentada.

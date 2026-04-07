@@ -4,6 +4,8 @@ title: 'Saúde em foco: Dia Mundial da Saúde une ciência, políticas públicas
 author: bememfoco
 categories: [Saúde]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/World_Health_Organization_Logo.svg/960px-World_Health_Organization_Logo.svg.png?_=20250516155442
+tags: [featured]
+---
 
 Nesta terça‑feira, **7 de abril de 2026**, o mundo celebra o **Dia Mundial da Saúde**, um dos momentos mais importantes do calendário global dedicado à conscientização e à ação em torno de temas sanitários, pesquisas científicas, políticas públicas e cuidados preventivos. A data foi criada pela **Organização Mundial da Saúde (OMS)** em 1948 — e desde então é celebrada todos os anos com temas que buscam chamar a atenção da sociedade e dos governos para desafios emergentes e persistentes na área da saúde. ([Organização Mundial da Saúde][1])
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tensões geopolíticas chegam ao limite enquanto guerra no Oriente Médio domina política internacional'
 author: bememfoco
-categories: [Política Internacional]
+categories: [Política Internacional, Politica]
 image: https://upload.wikimedia.org/wikipedia/commons/a/aa/STS004-37-716_-_Strait_of_Hormuz.jpg
 tags: [featured]
 ---

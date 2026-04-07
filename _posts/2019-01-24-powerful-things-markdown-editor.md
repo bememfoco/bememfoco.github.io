@@ -3,8 +3,9 @@
 layout: post
 title: 'Entretenimento em 07/04/2026: filmes, celebridades em destaque e novidades da cultura pop'
 author: bememfoco
-categories: [Entretenimento]
+categories: [Entretenimento, Filmes]
 image: https://upload.wikimedia.org/wikipedia/commons/7/78/Fame_Media.jpg?_=20231027024013
+tags: [featured]
 ---
 
 O cenário do entretenimento global e nacional brilha com acontecimentos relevantes nesta terça‑feira, 7 de abril de 2026, repleto de grandes nomes do cinema, música, televisão e momentos marcantes para fãs e espectadores. Da indústria cinematográfica a eventos culturais e celebridades que retornam aos holofotes, a pauta de hoje mistura nostalgia, novidades e movimentações que vão impactar o mundo da cultura pop e do showbiz nas próximas semanas.

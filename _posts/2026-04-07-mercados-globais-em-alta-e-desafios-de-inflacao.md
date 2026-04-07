@@ -2,7 +2,7 @@
 layout: post
 title: 'Crise global de energia e inflação redesenha projeções da economia mundial'
 author: bememfoco
-categories: [Economia Mundial]
+categories: [Economia Mundial, Economia]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mercator_projection_SW.jpg/960px-Mercator_projection_SW.jpg?_=20251127104313
 tags: [featured]
 ---

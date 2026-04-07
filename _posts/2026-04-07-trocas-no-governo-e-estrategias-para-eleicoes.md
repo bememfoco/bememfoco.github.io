@@ -2,7 +2,7 @@
 layout: post
 title: 'Panorama atualizado da política nacional brasileira em 07/04/2026'
 author: bememfoco
-categories: [Politica, Politica Nacional]
+categories: [Politica; Politica Nacional]
 image: https://upload.wikimedia.org/wikipedia/commons/8/84/Palacio_do_Planalto.jpeg
 tags:[featured]
 ---

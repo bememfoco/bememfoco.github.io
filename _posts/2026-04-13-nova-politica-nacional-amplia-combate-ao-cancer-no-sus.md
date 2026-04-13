@@ -4,6 +4,7 @@ title: 'Nova política nacional amplia combate ao câncer no SUS'
 author: bememfoco
 categories: [Política Nacional, Politica]
 image: https://upload.wikimedia.org/wikipedia/commons/3/34/Incacruzvermelha.jpg?_=20140128115628 
+tags: [featured]
 ---
 
 O governo federal sancionou uma nova legislação que estabelece diretrizes mais amplas para a prevenção e o controle do câncer no Brasil, reforçando o papel do Sistema Único de Saúde (SUS) no enfrentamento de uma das doenças que mais causam mortes no país. A medida surge em um momento estratégico, em que políticas públicas de saúde ganham destaque no debate nacional e passam a ser vistas também como instrumentos importantes de gestão e planejamento político.

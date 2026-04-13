@@ -1,11 +1,10 @@
 ---
-
 layout: post
 title: 'Reino Unido rejeita proposta dos EUA e amplia tensão no Oriente Médio'
 author:bememfoco
-categories: [Política]
-image: [https://commons.wikimedia.org/wiki/Special:FilePath/Strait%20of%20Hormuz%20map.png](https://commons.wikimedia.org/wiki/Special:FilePath/Strait%20of%20Hormuz%20map.png)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+categories: [Politica Internacional, Politica]
+image: https://upload.wikimedia.org/wikipedia/commons/1/13/Persian_Gulf_Cable.png?_=20110819115536
+---
 
 O cenário internacional voltou a registrar um aumento significativo de tensão após divergências entre aliados históricos sobre a condução de uma crise estratégica no Oriente Médio. O foco do impasse está no Estreito de Ormuz, uma das rotas marítimas mais importantes do mundo para o transporte de petróleo, e que mais uma vez se tornou palco de disputas políticas e militares envolvendo grandes potências.
 
@@ -30,3 +29,5 @@ A tensão no Estreito de Ormuz não é um fenômeno novo, mas o atual episódio 
 Nos próximos dias, a expectativa é de que novas negociações e posicionamentos oficiais surjam, podendo redefinir os rumos da crise. O desafio será encontrar um caminho que preserve a segurança internacional sem comprometer o fluxo de comércio global, especialmente em um momento em que a economia mundial ainda enfrenta incertezas.
 
 Diante desse cenário, a decisão do Reino Unido de rejeitar medidas mais radicais pode ser vista como uma tentativa de evitar um agravamento da crise. No entanto, a situação permanece delicada, e qualquer movimento mais incisivo por parte das potências envolvidas poderá alterar significativamente o equilíbrio atual.
+
+---

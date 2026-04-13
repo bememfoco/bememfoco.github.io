@@ -1,11 +1,10 @@
 ---
-
 layout: post
 title: 'Show de Shakira impulsiona buscas e aquece turismo no Rio de Janeiro'
-author:bememfoco
+author: bememfoco
 categories: [Política]
-image: [https://commons.wikimedia.org/wiki/Special:FilePath/Shakira%20in%20Rio%202011.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Shakira%20in%20Rio%202011.jpg)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+image: https://upload.wikimedia.org/wikipedia/commons/7/7d/Shakira_Rio_02_cropped.jpg
+---
 
 A indústria do entretenimento voltou a demonstrar sua força como motor econômico e cultural com o anúncio e a repercussão de um show da cantora colombiana Shakira no Brasil. O evento, que será realizado no Rio de Janeiro próximo ao feriado do Dia do Trabalho, já provoca impactos significativos no turismo e no interesse do público, evidenciando como grandes apresentações musicais podem influenciar diretamente a movimentação econômica de uma cidade.
 

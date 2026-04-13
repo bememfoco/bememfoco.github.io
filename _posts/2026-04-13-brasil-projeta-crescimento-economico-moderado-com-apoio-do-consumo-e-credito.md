@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brasil projeta crescimento econômico moderado com apoio do consumo e crédito em 2026'
-author:bememfoco
+author: bememfoco
 categories: [Economia Nacional, Economia]
 image: https://s44696.pcdn.co/wp-content/uploads/2025/11/Brazil-financial-district-Nov-2025-768x432.jpg
 ---

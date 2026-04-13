@@ -4,7 +4,6 @@ title: 'Nova política antidrogas dos EUA gera tensões e preocupa América Lati
 author: bememfoco
 categories: [Politica]
 image: https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Capitol.jpg
-tags: [sticky]
 ---
 A nova política antidrogas dos Estados Unidos tem gerado preocupação em diversos países, especialmente na América Latina. A estratégia, marcada por maior rigor e presença militar, representa uma mudança significativa na abordagem adotada nos últimos anos.
 

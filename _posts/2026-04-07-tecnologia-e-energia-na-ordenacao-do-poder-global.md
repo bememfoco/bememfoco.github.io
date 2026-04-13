@@ -4,7 +4,6 @@ title: 'Tecnologia e energia na ordenacao do poder global'
 author: bememfoco
 categories: [Política Internacional, Politica]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Science%2C_Technology_and_Engineering.jpg/960px-Science%2C_Technology_and_Engineering.jpg?_=20210810181100
-tags: [featured]
 ---
 
 Nesta terça‑feira, **7 de abril de 2026**, a política internacional está fortemente marcada por como **tecnologia, energia e poder econômico global estão se interligando em disputas entre grandes potências e blocos regionais**. Essas disputas têm implicações que vão além de meras negociações bilaterais — elas refletem uma **reconfiguração mais ampla da ordem global**, em que capacidades tecnológicas e controle de recursos energéticos determinam o equilíbrio geopolítico e o futuro da cooperação entre países.

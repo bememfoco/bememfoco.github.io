@@ -4,7 +4,6 @@ title: 'Esforcos de paz e negociação entre EUA e Irã'
 author: bememfoco
 categories: [Política Internacional, Politica]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/General_Assembly_of_the_United_Nations.jpg/960px-General_Assembly_of_the_United_Nations.jpg?_=20080205014207
-tags: [featured]
 ---
 
 Enquanto conflitos armados seguem dominando manchetes em várias partes do mundo, um aspecto que tem ganhado destaque na política internacional hoje — **7 de abril de 2026** — é o esforço diplomático para reduzir hostilidades e criar mecanismos de **mediação de paz**, envolvendo múltiplos países e organizações multilaterais em busca de negociações que possam evitar um conflito ainda maior e estabilizar regiões estratégicas. ([MM News][1])

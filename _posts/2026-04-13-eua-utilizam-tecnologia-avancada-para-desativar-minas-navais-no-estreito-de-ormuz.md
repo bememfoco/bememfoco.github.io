@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'EUA utilizam tecnologia avançada para desativar minas navais no Estreito de Ormuz'
-author:bememfoco
-categories: [Política]
+author: bememfoco
+categories: [Politica Internacional, Politica]
 image: https://upload.wikimedia.org/wikipedia/commons/1/13/Persian_Gulf_Cable.png?_=20110819115536
 tags: [sticky]
 ---

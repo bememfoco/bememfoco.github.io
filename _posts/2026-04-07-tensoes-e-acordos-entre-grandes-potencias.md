@@ -4,6 +4,7 @@ title: 'Tensões geopolíticas chegam ao limite enquanto guerra no Oriente Médi
 author: bememfoco
 categories: [Política Internacional, Politica]
 image: https://upload.wikimedia.org/wikipedia/commons/a/aa/STS004-37-716_-_Strait_of_Hormuz.jpg
+tags: [featured]
 ---
 
 As relações diplomáticas e militares entre potências globais e países do Oriente Médio atingiram um ponto crítico nesta terça-feira, 7 de abril de 2026, com desenvolvimentos que têm reverberado por capitais políticas em todo o mundo. O foco principal está na escalada dos confrontos entre Estados Unidos e Irã, que podem transformar o confronto atual em um dos episódios mais tensos da política internacional recente, com impactos diretos sobre a estabilidade regional e a segurança global.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exame com inteligência artificial avança no diagnóstico precoce da hanseníase'
-author:bememfoco
+author: bememfoco
 categories: [Saude, Tecnologia]
 image: https://upload.wikimedia.org/wikipedia/commons/1/1e/Multibacillary_leprosy_lesion.jpg
 ---

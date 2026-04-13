@@ -1,11 +1,10 @@
 ---
-
 layout: post
 title: 'Conferência global sobre combustíveis fósseis pode redefinir a economia mundial'
-author:bememfoco
-categories: [Política]
-image: [https://commons.wikimedia.org/wiki/Special:FilePath/Oil%20platform%20in%20the%20North%20Sea.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Oil%20platform%20in%20the%20North%20Sea.jpg)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+author: bememfoco
+categories: [Economia, Economia Internacional]
+image: https://upload.wikimedia.org/wikipedia/commons/f/fa/Oil_platform_in_the_North_Sea.jpg
+---
 
 Uma nova conferência internacional voltada à redução do uso de combustíveis fósseis está ganhando destaque no cenário global e pode representar um ponto de inflexão para a economia mundial. O encontro, que será realizado na Colômbia com apoio dos Países Baixos, surge em um momento de crescente pressão por mudanças estruturais nos modelos energéticos adotados pelas principais economias do planeta.
 

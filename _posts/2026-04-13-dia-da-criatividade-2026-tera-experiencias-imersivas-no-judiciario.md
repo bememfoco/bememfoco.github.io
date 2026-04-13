@@ -4,7 +4,7 @@ title: 'Dia da Criatividade 2026 aposta em experiências imersivas no Judiciári
 author: bememfoco
 categories: [Vida]
 image: https://upload.wikimedia.org/wikipedia/commons/a/a8/Escape_Room_-_%22The_Expedition%22_%28Escape_Quest_Bethesda%29.jpg
-----
+---
 
 O Dia da Criatividade 2026 será marcado por uma abordagem inovadora dentro do setor público brasileiro, ao transformar o ambiente institucional em um espaço interativo voltado ao estímulo da criatividade, colaboração e pensamento estratégico. A iniciativa, promovida pelo Tribunal de Justiça de Roraima (TJRR), reforça uma tendência crescente de incorporar metodologias criativas e experiências imersivas em contextos tradicionalmente formais.
 

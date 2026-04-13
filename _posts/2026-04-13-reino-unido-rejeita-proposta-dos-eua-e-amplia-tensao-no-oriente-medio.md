@@ -3,7 +3,7 @@ layout: post
 title: 'Reino Unido rejeita proposta dos EUA e amplia tensão no Oriente Médio'
 author: bememfoco
 categories: [Politica Internacional, Politica]
-image: https://upload.wikimedia.org/wikipedia/commons/1/13/Persian_Gulf_Cable.png?_=20110819115536
+image: https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%28DDD-F-416F_specifications%29.svg
 tags: [featured]
 ---
 

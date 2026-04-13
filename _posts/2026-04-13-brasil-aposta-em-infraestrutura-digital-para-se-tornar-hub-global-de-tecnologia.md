@@ -1,11 +1,10 @@
 ---
-
 layout: post
 title: 'Brasil aposta em infraestrutura digital para se tornar hub global de tecnologia'
-author:bememfoco
-categories: [Política]
-image: [https://commons.wikimedia.org/wiki/Special:FilePath/Data%20center%20server%20room.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Data%20center%20server%20room.jpg)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+author: bememfoco
+categories: [Tecnologia]
+image: https://upload.wikimedia.org/wikipedia/commons/5/5d/BalticServers_data_center.jpg
+---
 
 O Brasil vem reforçando sua estratégia para se consolidar como um dos principais polos globais de tecnologia e processamento de dados. A iniciativa envolve investimentos em infraestrutura digital, expansão de centros de dados e incentivo ao desenvolvimento de tecnologias emergentes, como inteligência artificial e computação em nuvem.
 

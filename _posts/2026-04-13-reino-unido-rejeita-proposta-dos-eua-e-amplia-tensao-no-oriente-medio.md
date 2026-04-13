@@ -4,6 +4,7 @@ title: 'Reino Unido rejeita proposta dos EUA e amplia tensão no Oriente Médio'
 author: bememfoco
 categories: [Politica Internacional, Politica]
 image: https://upload.wikimedia.org/wikipedia/commons/1/13/Persian_Gulf_Cable.png?_=20110819115536
+tags: [featured]
 ---
 
 O cenário internacional voltou a registrar um aumento significativo de tensão após divergências entre aliados históricos sobre a condução de uma crise estratégica no Oriente Médio. O foco do impasse está no Estreito de Ormuz, uma das rotas marítimas mais importantes do mundo para o transporte de petróleo, e que mais uma vez se tornou palco de disputas políticas e militares envolvendo grandes potências.

@@ -1,11 +1,10 @@
 ---
-
 layout: post
 title: 'Rodada internacional movimenta o futebol e reforça globalização do esporte'
-author:bememfoco
-categories: [Política]
-image: [https://commons.wikimedia.org/wiki/Special:FilePath/Old%20Trafford%20Stadium.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Old%20Trafford%20Stadium.jpg)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+author: bememfoco
+categories: [Esporte]
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Manchester_%2C_Trafford_-_Old_Trafford_Stadium_-_geograph.org.uk_-_3724146.jpg/960px-Manchester_%2C_Trafford_-_Old_Trafford_Stadium_-_geograph.org.uk_-_3724146.jpg?_=20220824080429
+---
 
 O futebol mundial vive mais um dia intenso de competições internacionais, evidenciando não apenas a paixão global pelo esporte, mas também sua crescente relevância econômica e cultural. A programação desta segunda-feira reúne partidas de diferentes ligas e continentes, com destaque para confrontos na Europa, Ásia e América do Sul, refletindo a dimensão global que o futebol alcançou nas últimas décadas.
 

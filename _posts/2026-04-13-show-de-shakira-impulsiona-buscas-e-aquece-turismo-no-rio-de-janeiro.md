@@ -2,7 +2,7 @@
 layout: post
 title: 'Show de Shakira impulsiona buscas e aquece turismo no Rio de Janeiro'
 author: bememfoco
-categories: [Política]
+categories: [Entretenimento]
 image: https://upload.wikimedia.org/wikipedia/commons/7/7d/Shakira_Rio_02_cropped.jpg
 ---
 

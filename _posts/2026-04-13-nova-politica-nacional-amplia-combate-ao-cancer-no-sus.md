@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nova política nacional amplia combate ao câncer no SUS'
-author:bememfoco
+author: bememfoco
 categories: [Política Nacional, Politica]
 image: https://upload.wikimedia.org/wikipedia/commons/3/34/Incacruzvermelha.jpg?_=20140128115628 
 ---

@@ -4,6 +4,7 @@ title: 'Exame com inteligência artificial avança no diagnóstico precoce da ha
 author: bememfoco
 categories: [Saude, Tecnologia]
 image: https://upload.wikimedia.org/wikipedia/commons/1/1e/Multibacillary_leprosy_lesion.jpg
+tags: [featured]
 ---
 
 Um novo avanço tecnológico na área da saúde promete transformar o diagnóstico precoce da hanseníase no Brasil. Pesquisadores desenvolveram um exame de sangue que utiliza inteligência artificial para identificar sinais da doença com maior precisão e rapidez, o que pode representar um passo importante no combate a uma enfermidade que ainda afeta milhares de pessoas no país.

@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 'Golaço de Güler coloca Real Madrid na frente em duelo eletrizante contra o Bayern'
-author:bememfoco
+author: bememfoco
 categories: [Esportes]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Allianz_Arena_(night).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/6/63/Allianz_Arena_at_night%2C_lit_in_red.JPG
+tags: [featured]
 ---
 
 Um dos jogos mais aguardados da temporada europeia entregou emoção logo nos primeiros minutos. Em um confronto eletrizante entre Bayern de Munique e Real Madrid pelas quartas de final da Champions League, o jovem turco Arda Güler foi o grande destaque ao marcar um golaço que colocou o time espanhol em vantagem, reforçando sua ascensão como uma das promessas mais empolgantes do futebol europeu.
 
-De acordo com "essa matéria da [CNN Brasil](https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/veja-golaco-de-guler-para-colocar-o-real-madrid-na-frente-contra-o-bayern/)", o meia marcou um gol de falta impressionante durante a partida disputada na Allianz Arena, em Munique, válida pelo jogo de volta das quartas de final da competição. O lance foi decisivo para colocar o Real Madrid à frente no placar em um duelo marcado por intensidade e alto nível técnico.
+De acordo com essa matéria da [CNN Brasil](https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/veja-golaco-de-guler-para-colocar-o-real-madrid-na-frente-contra-o-bayern/), o meia marcou um gol de falta impressionante durante a partida disputada na Allianz Arena, em Munique, válida pelo jogo de volta das quartas de final da competição. O lance foi decisivo para colocar o Real Madrid à frente no placar em um duelo marcado por intensidade e alto nível técnico.
 
 O confronto já começou com forte emoção. Antes mesmo do golaço de falta, Güler já havia participado diretamente do jogo ao aproveitar uma falha do goleiro Manuel Neuer logo nos primeiros segundos, mostrando oportunismo e frieza diante de um dos arqueiros mais experientes do mundo :contentReference[oaicite:0]{index=0}. Esse início acelerado refletiu o nível de tensão da partida, já que o Real Madrid precisava reverter o resultado adverso do jogo de ida.
 

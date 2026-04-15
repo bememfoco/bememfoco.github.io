@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Governo projeta salário mínimo de R$ 1.717 para 2027 e reacende debate fiscal'
-author:bememfoco
+author: bememfoco
 categories: [Economia, Economia Nacional]
 image: https://upload.wikimedia.org/wikipedia/commons/b/bb/Nota_de_100_reais_%28dinheiro_do_Brasil%29.jpg
 tags: [featured]

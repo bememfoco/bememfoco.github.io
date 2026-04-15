@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 'Sanções dos EUA ao petróleo iraniano ampliam tensão global'

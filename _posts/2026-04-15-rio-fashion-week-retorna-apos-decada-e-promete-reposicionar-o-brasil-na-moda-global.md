@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 'Rio Fashion Week retorna após década e promete reposicionar o Brasil na moda global'
-author:bememfoco
+author: bememfoco
 categories: [Vida]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Pier_Maua_Rio_de_Janeiro.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/5/53/Fashion_Rio_2009_%283614009660%29.jpg
+tags: [featured]
 ---
 
 Após um hiato de dez anos, o Rio Fashion Week está de volta ao calendário da moda brasileira e promete recolocar o Rio de Janeiro no centro das atenções internacionais. Mais do que uma sequência de desfiles, o evento surge com uma proposta ampliada, reunindo experiências, negócios e cultura, em um movimento que busca fortalecer a indústria nacional e ampliar sua presença global.
 
-De acordo com "essa matéria da [CNN Brasil](https://www.cnnbrasil.com.br/lifestyle/rio-fashion-week-valores-novidades-e-tudo-o-que-esperar/)", a edição de 2026 acontece entre os dias 14 e 18 de abril e ocupa diferentes pontos da cidade, com destaque para o Pier Mauá, além de espaços externos estratégicos. O retorno marca uma nova fase para a moda carioca, que passa a integrar oficialmente o calendário nacional ao lado da São Paulo Fashion Week.
+De acordo com essa matéria da [CNN Brasil](https://www.cnnbrasil.com.br/lifestyle/rio-fashion-week-valores-novidades-e-tudo-o-que-esperar/), a edição de 2026 acontece entre os dias 14 e 18 de abril e ocupa diferentes pontos da cidade, com destaque para o Pier Mauá, além de espaços externos estratégicos. O retorno marca uma nova fase para a moda carioca, que passa a integrar oficialmente o calendário nacional ao lado da São Paulo Fashion Week.
 
 Um dos principais destaques do evento está na diversidade de experiências oferecidas ao público. Além dos tradicionais desfiles, o Rio Fashion Week aposta em ativações, rodas de conversa, experiências gastronômicas e encontros voltados ao mercado da moda. Essa abordagem reflete uma tendência global de transformar semanas de moda em plataformas mais amplas de conteúdo e networking.
 

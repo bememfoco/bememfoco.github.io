@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Bailarina brasileira é homenageada em Nova York e simboliza resistência na dança'
-author:bememfoco
+author: bememfoco
 categories: [Entretenimento]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/New_York_City_skyline.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/5/5b/Dancetheatre.jpg
+tags: [featured]
 ---
 
 A bailarina brasileira Bethania Nascimento voltou aos palcos de Nova York em um momento marcante de sua carreira: como homenageada em uma das companhias mais importantes do mundo. O reconhecimento internacional celebra não apenas sua trajetória artística, mas também sua contribuição para ampliar a representatividade de mulheres negras no balé clássico, um espaço historicamente marcado pela exclusão.

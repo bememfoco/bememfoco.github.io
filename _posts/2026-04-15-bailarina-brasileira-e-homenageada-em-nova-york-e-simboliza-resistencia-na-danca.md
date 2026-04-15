@@ -9,7 +9,7 @@ tags: [featured]
 
 A bailarina brasileira Bethania Nascimento voltou aos palcos de Nova York em um momento marcante de sua carreira: como homenageada em uma das companhias mais importantes do mundo. O reconhecimento internacional celebra não apenas sua trajetória artística, mas também sua contribuição para ampliar a representatividade de mulheres negras no balé clássico, um espaço historicamente marcado pela exclusão.
 
-De acordo com "essa matéria da [CNN Brasil](https://www.cnnbrasil.com.br/entretenimento/bailarina-brasileira-e-homenageada-em-ny-conheca-bethania-nascimento/)", Bethania foi homenageada durante a reestreia do espetáculo “O Pássaro de Fogo”, apresentado pela companhia Dance Theatre of Harlem, nos Estados Unidos. A artista teve papel central nessa montagem no passado, sendo uma das poucas bailarinas a interpretar a obra em sua história.
+De acordo com essa matéria da [CNN Brasil](https://www.cnnbrasil.com.br/entretenimento/bailarina-brasileira-e-homenageada-em-ny-conheca-bethania-nascimento/), Bethania foi homenageada durante a reestreia do espetáculo “O Pássaro de Fogo”, apresentado pela companhia Dance Theatre of Harlem, nos Estados Unidos. A artista teve papel central nessa montagem no passado, sendo uma das poucas bailarinas a interpretar a obra em sua história.
 
 A homenagem ocorre em um contexto especial: Bethania foi a única brasileira — e também uma das poucas estrangeiras — a interpretar o papel principal da obra em mais de quatro décadas da companhia. :contentReference[oaicite:0]{index=0} Isso por si só já representa um feito extraordinário dentro de uma das instituições mais relevantes da dança internacional, conhecida por valorizar a diversidade e a inclusão.
 

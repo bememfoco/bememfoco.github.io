@@ -4,7 +4,6 @@ title: 'Brasil projeta crescimento econômico moderado com apoio do consumo e cr
 author: bememfoco
 categories: [Economia Nacional, Economia]
 image: https://s44696.pcdn.co/wp-content/uploads/2025/11/Brazil-financial-district-Nov-2025-768x432.jpg
-tags: [featured]
 ---
 
 A economia brasileira entra em 2026 em um cenário de crescimento moderado, sustentado principalmente pelo consumo das famílias, expansão do crédito e desempenho positivo de setores estratégicos como serviços e agropecuária. Apesar das incertezas no ambiente externo, analistas apontam que o país mantém uma trajetória de recuperação gradual, ainda que abaixo do ritmo observado em ciclos de forte expansão.

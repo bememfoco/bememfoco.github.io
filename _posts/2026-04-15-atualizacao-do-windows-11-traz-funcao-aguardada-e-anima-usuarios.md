@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 'Atualização do Windows 11 traz função aguardada e anima usuários'
-author:bememfoco
+author: bememfoco
 categories: [Tecnologia]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Windows_11_Desktop.png
+image: https://upload.wikimedia.org/wikipedia/commons/d/d5/Windows_NT.jpeg
+tags: [featured]
 ---
 
 Uma atualização recente do Windows 11 começou a chegar para alguns usuários e rapidamente gerou repercussão positiva nas redes sociais. O motivo da empolgação está em uma funcionalidade bastante aguardada: maior controle sobre as atualizações automáticas do sistema, algo que há anos é alvo de críticas por parte dos usuários da plataforma.
 
-De acordo com "essa matéria da [CNN Brasil](https://www.cnnbrasil.com.br/tecnologia/windows-11-usuarios-comemoram-chegada-de-atualizacao-esperada/)", a novidade permite que os usuários escolham intervalos maiores para a instalação de atualizações, oferecendo mais flexibilidade no uso do sistema operacional. Embora a Microsoft já tivesse anunciado mudanças nesse sentido anteriormente, a empresa não havia divulgado uma data exata para a liberação da funcionalidade.
+De acordo com essa matéria da [CNN Brasil](https://www.cnnbrasil.com.br/tecnologia/windows-11-usuarios-comemoram-chegada-de-atualizacao-esperada/), a novidade permite que os usuários escolham intervalos maiores para a instalação de atualizações, oferecendo mais flexibilidade no uso do sistema operacional. Embora a Microsoft já tivesse anunciado mudanças nesse sentido anteriormente, a empresa não havia divulgado uma data exata para a liberação da funcionalidade.
 
 Agora, a opção começou a aparecer gradualmente em alguns computadores, indicando que a atualização já está em fase de distribuição. Nas redes sociais, diversos usuários relataram surpresa e satisfação ao perceberem que finalmente poderiam controlar melhor quando o sistema realiza atualizações — um problema recorrente para quem utiliza o computador para trabalho ou estudo.
 

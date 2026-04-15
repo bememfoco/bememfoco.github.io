@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Proteína descoberta por cientistas brasileiros pode controlar inflamações no organismo'
-author:bememfoco
+author: bememfoco
 categories: [Saúde]
 image: https://upload.wikimedia.org/wikipedia/commons/1/1b/Cidade_universit%C3%A1ria_da_Universidade_de_S%C3%A3o_Paulo_%28USP%29.jpg
 tags: [featured]

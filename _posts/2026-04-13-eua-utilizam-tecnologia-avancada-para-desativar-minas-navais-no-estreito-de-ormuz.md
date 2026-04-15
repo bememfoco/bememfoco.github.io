@@ -4,7 +4,6 @@ title: 'EUA utilizam tecnologia avançada para desativar minas navais no Estreit
 author: bememfoco
 categories: [Politica Internacional, Politica]
 image: https://upload.wikimedia.org/wikipedia/commons/1/13/Persian_Gulf_Cable.png?_=20110819115536
-tags: [sticky]
 ---
 
 As operações navais dos Estados Unidos no Estreito de Ormuz vêm chamando atenção internacional devido ao uso de tecnologias avançadas para localizar e neutralizar minas marítimas instaladas na região. O estreito, considerado um dos pontos estratégicos mais importantes do comércio global de energia, voltou a ser palco de tensão militar e disputas geopolíticas envolvendo grandes potências.

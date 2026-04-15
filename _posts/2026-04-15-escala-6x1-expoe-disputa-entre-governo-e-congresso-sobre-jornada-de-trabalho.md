@@ -4,6 +4,7 @@ title: 'Escala 6x1 expõe disputa entre governo e Congresso sobre jornada de tra
 author: bememfoco
 categories: [Politica, Politica Nacional]
 image: https://upload.wikimedia.org/wikipedia/commons/9/9f/Congresso_Nacional_Brasil.jpg
+tags: [featured]
 ---
 
 O debate sobre o fim da escala de trabalho 6x1 voltou ao centro da política brasileira e revelou um embate direto entre o governo federal e o Congresso Nacional sobre a melhor forma de implementar mudanças na jornada de trabalho. A divergência não está apenas no conteúdo da proposta, mas principalmente no caminho legislativo escolhido por cada lado, o que pode impactar diretamente a velocidade e as chances de aprovação da medida.

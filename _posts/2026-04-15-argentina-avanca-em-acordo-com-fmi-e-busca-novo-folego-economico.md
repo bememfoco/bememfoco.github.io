@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 'Argentina avança em acordo com FMI e busca novo fôlego econômico'
-author:bememfoco
-categories: [Economia Mundial]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/IMF_building_Washington.jpg
+author: bememfoco
+categories: [Economia, Economia Mundial]
+image: https://upload.wikimedia.org/wikipedia/commons/d/d3/IMF_building_HR.jpg
+tags: [featured]
 ---
 
 A Argentina deu mais um passo importante em sua tentativa de estabilizar a economia ao avançar em um novo acordo com o Fundo Monetário Internacional (FMI), abrindo caminho para o recebimento de novos recursos financeiros. A medida é vista como estratégica para reforçar as reservas internacionais do país e recuperar a confiança de investidores em meio a um cenário econômico ainda frágil.
 
-De acordo com "essa matéria da [CNN Brasil](https://www.cnnbrasil.com.br/economia/macroeconomia/argentina-fecha-acordo-com-fmi-e-abre-caminho-para-us-1-bi-em-novos-fundos/)", o entendimento firmado permite que a Argentina tenha acesso a cerca de US$ 1 bilhão em novos fundos, desde que cumpra metas estabelecidas pelo FMI. O acordo representa mais um capítulo da longa relação entre o país e o organismo internacional, marcada por sucessivas renegociações e programas de ajuste econômico.
+De acordo com essa matéria da [CNN Brasil](https://www.cnnbrasil.com.br/economia/macroeconomia/argentina-fecha-acordo-com-fmi-e-abre-caminho-para-us-1-bi-em-novos-fundos/), o entendimento firmado permite que a Argentina tenha acesso a cerca de US$ 1 bilhão em novos fundos, desde que cumpra metas estabelecidas pelo FMI. O acordo representa mais um capítulo da longa relação entre o país e o organismo internacional, marcada por sucessivas renegociações e programas de ajuste econômico.
 
 O novo avanço ocorre em um contexto de reformas conduzidas pelo governo do presidente Javier Milei, que tem adotado uma política econômica baseada em austeridade fiscal, redução de gastos públicos e desregulamentação. Essas medidas são consideradas fundamentais para atender às exigências do FMI, que condiciona a liberação de recursos ao cumprimento de metas fiscais e estruturais.
 

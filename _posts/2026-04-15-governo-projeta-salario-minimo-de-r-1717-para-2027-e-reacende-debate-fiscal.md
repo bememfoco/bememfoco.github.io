@@ -2,13 +2,14 @@
 layout: post
 title: 'Governo projeta salário mínimo de R$ 1.717 para 2027 e reacende debate fiscal'
 author:bememfoco
-categories: [Economia Nacional]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Notas_de_real.jpg
+categories: [Economia, Economia Nacional]
+image: https://upload.wikimedia.org/wikipedia/commons/b/bb/Nota_de_100_reais_%28dinheiro_do_Brasil%29.jpg
+tags: [featured]
 ---
 
 O governo federal apresentou as diretrizes iniciais para o orçamento de 2027 com uma estimativa de salário mínimo de R$ 1.717, valor que, embora ainda não seja definitivo, já provoca discussões sobre seus impactos na economia, nas contas públicas e no poder de compra da população brasileira. A proposta faz parte do Projeto de Lei de Diretrizes Orçamentárias (PLDO), documento que orienta a elaboração do orçamento do ano seguinte.
 
-De acordo com "essa matéria da [CNN Brasil](https://www.cnnbrasil.com.br/economia/macroeconomia/pldo-2027-governo-preve-salario-minimo-em-r-1-717/)", o valor previsto representa um aumento em relação ao salário mínimo atual, servindo como base para a construção das despesas e receitas do governo. O número, no entanto, ainda pode sofrer alterações ao longo do ano, dependendo principalmente do comportamento da inflação.
+De acordo com essa matéria da [CNN Brasil](https://www.cnnbrasil.com.br/economia/macroeconomia/pldo-2027-governo-preve-salario-minimo-em-r-1-717/), o valor previsto representa um aumento em relação ao salário mínimo atual, servindo como base para a construção das despesas e receitas do governo. O número, no entanto, ainda pode sofrer alterações ao longo do ano, dependendo principalmente do comportamento da inflação.
 
 A estimativa de R$ 1.717 corresponde a um crescimento aproximado de 5,9% em relação ao piso vigente, que atualmente está em R$ 1.621 :contentReference[oaicite:0]{index=0}. Esse reajuste segue a política adotada pelo governo, que combina a reposição da inflação medida pelo Índice Nacional de Preços ao Consumidor (INPC) com um ganho real adicional de até 2,5%. A fórmula busca preservar o poder de compra dos trabalhadores e, ao mesmo tempo, promover aumento gradual da renda.
 

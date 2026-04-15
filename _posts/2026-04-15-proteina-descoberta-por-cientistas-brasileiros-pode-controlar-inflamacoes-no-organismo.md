@@ -3,12 +3,13 @@ layout: post
 title: 'Proteína descoberta por cientistas brasileiros pode controlar inflamações no organismo'
 author:bememfoco
 categories: [Saúde]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/T_cells_SEM.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/1/1b/Cidade_universit%C3%A1ria_da_Universidade_de_S%C3%A3o_Paulo_%28USP%29.jpg
+tags: [featured]
 ---
 
 Uma descoberta científica liderada por pesquisadores brasileiros pode representar um avanço significativo na compreensão do sistema imunológico e no combate a doenças inflamatórias. O estudo identificou uma proteína capaz de proteger células de defesa contra danos e, ao mesmo tempo, regular processos inflamatórios no organismo — um equilíbrio essencial para a saúde.
 
-De acordo com "essa matéria da [CNN Brasil](https://www.cnnbrasil.com.br/saude/estudo-descobre-proteina-que-protege-celulas-de-defesa-e-evita-inflamacoes/)", cientistas da Universidade de São Paulo (USP) descobriram que a proteína chamada XPC, conhecida anteriormente por seu papel no reparo de DNA, também exerce uma função fundamental no funcionamento do sistema imunológico. A pesquisa foi publicada na revista científica Nature Communications e contou com colaboração internacional.
+De acordo com essa matéria da [CNN Brasil](https://www.cnnbrasil.com.br/saude/estudo-descobre-proteina-que-protege-celulas-de-defesa-e-evita-inflamacoes/), cientistas da Universidade de São Paulo (USP) descobriram que a proteína chamada XPC, conhecida anteriormente por seu papel no reparo de DNA, também exerce uma função fundamental no funcionamento do sistema imunológico. A pesquisa foi publicada na revista científica Nature Communications e contou com colaboração internacional.
 
 O foco do estudo foram os linfócitos T, células responsáveis por identificar e combater ameaças no organismo, como vírus, bactérias e outros agentes invasores. Essas células passam por um processo intenso de multiplicação e especialização quando ativadas, o que as torna particularmente vulneráveis a danos no DNA causados pelo chamado estresse oxidativo — um fenômeno associado ao acúmulo de radicais livres.
 

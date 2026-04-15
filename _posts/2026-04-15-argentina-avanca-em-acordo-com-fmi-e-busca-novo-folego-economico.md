@@ -2,7 +2,7 @@
 layout: post
 title: 'Argentina avança em acordo com FMI e busca novo fôlego econômico'
 author: bememfoco
-categories: [Economia, Economia Mundial]
+categories: [Economia, Economia Internacional]
 image: https://upload.wikimedia.org/wikipedia/commons/d/d3/IMF_building_HR.jpg
 tags: [featured]
 ---

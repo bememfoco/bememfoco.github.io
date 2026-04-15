@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Escala 6x1 expõe disputa entre governo e Congresso sobre jornada de trabalho'
-author:bememfoco
+author: bememfoco
 categories: [Politica, Politica Nacional]
 image: https://upload.wikimedia.org/wikipedia/commons/9/9f/Congresso_Nacional_Brasil.jpg
 ---

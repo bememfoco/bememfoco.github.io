@@ -4,7 +4,7 @@ title: 'Governo projeta salário mínimo de R$ 1.717 para 2027 e reacende debate
 author: bememfoco
 categories: [Economia, Economia Nacional]
 image: https://upload.wikimedia.org/wikipedia/commons/b/bb/Nota_de_100_reais_%28dinheiro_do_Brasil%29.jpg
-tags: [featured]
+tags: [featured, sticky]
 ---
 
 O governo federal apresentou as diretrizes iniciais para o orçamento de 2027 com uma estimativa de salário mínimo de R$ 1.717, valor que, embora ainda não seja definitivo, já provoca discussões sobre seus impactos na economia, nas contas públicas e no poder de compra da população brasileira. A proposta faz parte do Projeto de Lei de Diretrizes Orçamentárias (PLDO), documento que orienta a elaboração do orçamento do ano seguinte.

@@ -3,8 +3,9 @@
 layout: post
 title: 'Sanções dos EUA ao petróleo iraniano ampliam tensão global'
 author: bememfoco
-categories: [Economia Mundial]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Strait_of_Hormuz_map.png
+categories: [Politica, Politica Internacional]
+image: https://upload.wikimedia.org/wikipedia/commons/4/4f/Locatie_Straat_van_Hormuz_%282026%29.png
+tags: [featured]
 ---
 
 Os Estados Unidos anunciaram uma nova rodada de sanções direcionadas ao petróleo iraniano, intensificando ainda mais a crise geopolítica e energética que já impacta os mercados globais. A medida ocorre em meio a um cenário de conflito crescente no Oriente Médio e à tentativa do governo americano de pressionar economicamente o Irã, ao mesmo tempo em que busca equilibrar os preços internacionais da energia.

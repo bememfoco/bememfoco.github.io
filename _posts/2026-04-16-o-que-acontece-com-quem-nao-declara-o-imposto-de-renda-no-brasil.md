@@ -2,8 +2,8 @@
 layout: post
 title: 'O que acontece com quem não declara o Imposto de Renda no Brasil'
 author: bememfoco
-categories: [Economia]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Receita_Federal_do_Brasil.jpg
+categories: [Economia, Economia Nacional]
+image: https://upload.wikimedia.org/wikipedia/commons/e/e8/Logo_Receita_Federal_do_Brasil.svg
 ---
 
 Deixar de declarar o Imposto de Renda pode trazer uma série de consequências para o contribuinte no Brasil, que vão desde multas financeiras até restrições no CPF. As implicações desse descumprimento foram detalhadas em reportagem do <a href="https://www.terra.com.br/economia/imposto-de-renda/multa-cpf-cancelado-o-que-acontece-com-quem-nao-declara-o-imposto-de-renda,8e85da01af92999765e59dba0a5013e6lurldg15.html">Terra</a>.

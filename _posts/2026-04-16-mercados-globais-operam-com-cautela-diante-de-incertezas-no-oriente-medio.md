@@ -2,8 +2,8 @@
 layout: post
 title: 'Mercados globais operam com cautela diante de incertezas no Oriente Médio'
 author: bememfoco
-categories: [Economia]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Wall_Street_Sign_New_York.jpg
+categories: [Economia, Economia Internacional]
+image: https://upload.wikimedia.org/wikipedia/commons/2/2e/Wall-Street-Sign-New-York.jpg
 ---
 
 Os mercados financeiros globais iniciaram o dia em ritmo de cautela, refletindo a ausência de sinais concretos sobre uma possível resolução do conflito no Oriente Médio. O cenário de incerteza tem influenciado investidores ao redor do mundo, que adotam uma postura mais conservadora diante dos riscos geopolíticos. A análise foi apresentada em reportagem do <a href="https://monitordomercado.com.br/noticias/mercados/374718-morning-call-mercados-operam-em-compasso-de-espera-sem-sinais-concretos-sobre-fim-da-guerra-no-oriente-medio/">Monitor do Mercado</a>.

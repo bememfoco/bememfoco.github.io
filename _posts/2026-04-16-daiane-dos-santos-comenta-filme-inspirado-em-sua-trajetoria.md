@@ -2,8 +2,8 @@
 layout: post
 title: 'Daiane dos Santos comenta filme inspirado em sua trajetória e celebra homenagem em vida'
 author: bememfoco
-categories: [Esportes]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Daiane_dos_Santos.jpg
+categories: [Esportes, Entretenimento]
+image: https://upload.wikimedia.org/wikipedia/commons/1/16/Daiane_dos_Santos_13072007_%28cropped%29.jpg
 ---
 
 A ex-ginasta brasileira Daiane dos Santos falou recentemente sobre o filme inspirado em sua trajetória no esporte, destacando a emoção e o significado de receber uma homenagem ainda em vida. A produção busca retratar os desafios, conquistas e o impacto de sua carreira na ginástica artística nacional. As informações foram divulgadas em reportagem do <a href="https://www.terra.com.br/esportes/ginastica/ex-ginasta-daiane-dos-santos-fala-sobre-filme-inspirado-em-sua-trajetoria-uma-honra-ter-essa-homenagem-em-vida,595caca9ae34443ecf79f736b228a322w7d4kchc.html">Terra</a>.

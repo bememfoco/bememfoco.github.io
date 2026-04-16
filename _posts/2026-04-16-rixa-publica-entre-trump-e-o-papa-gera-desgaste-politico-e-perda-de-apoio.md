@@ -2,8 +2,8 @@
 layout: post
 title: 'Rixa pública entre Trump e o papa gera desgaste político e perda de apoio'
 author: bememfoco
-categories: [Política]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Vatican_City_St_Peters_Square.jpg
+categories: [Politica, Politica Internacional]
+image: https://upload.wikimedia.org/wikipedia/commons/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg
 ---
 
 A crescente tensão pública entre o ex-presidente dos Estados Unidos, Donald Trump, e o papa tem provocado impactos políticos relevantes, especialmente no que diz respeito ao apoio de setores importantes da sociedade americana. A análise foi destacada em reportagem do <a href="https://www.terra.com.br/noticias/mundo/por-que-rixa-publica-de-trump-com-papa-esta-tirando-apoio-valioso-do-presidente-americano,0caf38d93bf168a8f8b4ade58c86ec73cars1crq.html">Terra</a>.

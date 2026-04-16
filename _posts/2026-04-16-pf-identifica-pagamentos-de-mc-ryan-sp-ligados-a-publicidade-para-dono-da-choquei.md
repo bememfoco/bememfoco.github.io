@@ -2,7 +2,7 @@
 layout: post
 title: 'PF identifica pagamentos de MC Ryan SP ligados a publicidade para dono da Choquei'
 author: bememfoco
-categories: [Polícia]
+categories: [Politica, Justica]
 image: https://upload.wikimedia.org/wikipedia/commons/d/da/Choquei.jpg
 ---
 

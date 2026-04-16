@@ -2,8 +2,8 @@
 layout: post
 title: 'Orquestra juvenil feminina do Rio se prepara para estreia internacional e encontro com o papa'
 author: bememfoco
-categories: [Cultura]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/St_Peter%27s_Basilica_facade_Rome.jpg
+categories: [Entretenimento]
+image: https://osjchiquinhagonzaga.org.br/wp-content/uploads/2023/10/image-14.jpeg
 ---
 
 A Orquestra Juvenil Feminina do Rio de Janeiro se prepara para um momento marcante em sua trajetória: a estreia internacional na Itália, que inclui também um encontro com o papa. A iniciativa representa um importante reconhecimento ao trabalho desenvolvido pelo grupo e reforça o papel da música como ferramenta de transformação social. As informações foram divulgadas em reportagem do <a href="https://www.terra.com.br/diversao/arte-e-cultura/orquestra-juvenil-feminina-do-rio-estreara-na-italia-e-tera-encontro-com-papa,345236b45506fcc89b4c2ef6f9e18195hihdv3t1.html">Terra</a>.

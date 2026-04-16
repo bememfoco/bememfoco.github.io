@@ -3,7 +3,7 @@ layout: post
 title: 'China avança com motocicleta autônoma e pode sair na frente de gigantes do setor'
 author: bememfoco
 categories: [Tecnologia]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Motorcycle.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/d/df/Pudong_Shanghai_November_2017_panorama.jpg
 ---
 
 A China pode ter alcançado um marco importante no setor de mobilidade ao desenvolver uma motocicleta autônoma, algo que grandes fabricantes como Yamaha e Honda vêm tentando há anos sem sucesso. A inovação representa um avanço significativo na tecnologia de veículos inteligentes e pode mudar a forma como se pensa o transporte sobre duas rodas. As informações foram divulgadas em reportagem do <a href="https://www.terra.com.br/mobilidade/a-china-acaba-de-alcancar-algo-que-a-yamaha-e-a-honda-vem-tentando-fazer-ha-anos-sem-sucesso-uma-motocicleta-autonoma-e-ela-entrara-em-producao,d4a19da52c82e8c77d70ada75022927fck5i9e9d.html">Terra</a>.

@@ -2,8 +2,8 @@
 layout: post
 title: 'Por que gatos mordem durante o carinho? Entenda o comportamento e os sinais de alerta'
 author: bememfoco
-categories: [Curiosidades]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Cat_being_petted.jpg
+categories: [Vida]
+image: https://upload.wikimedia.org/wikipedia/commons/3/31/Cat_being_petted_by_Santamarcanda_in_Rue_Holt%2C_Montreal.jpg
 ---
 
 Muitos tutores de gatos já passaram pela situação de estar acariciando o animal e, de repente, receber uma mordida aparentemente inesperada. Esse comportamento, apesar de comum, costuma gerar dúvidas e até preocupação. As razões por trás dessa atitude foram explicadas por especialistas em reportagem do <a href="https://www.terra.com.br/vida-e-estilo/por-que-o-gato-morde-durante-o-carinho-especialista-explica-o-sinal-de-alerta,4ebe185e5543be6ce7b4f4c4e662af59a9z617cc.html">Terra</a>.

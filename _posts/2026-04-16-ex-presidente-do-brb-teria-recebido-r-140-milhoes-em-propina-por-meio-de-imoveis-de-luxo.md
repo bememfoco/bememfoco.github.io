@@ -3,7 +3,7 @@ layout: post
 title: 'Ex-presidente do BRB teria recebido R$ 140 milhões em propina por meio de imóveis de luxo'
 author: bememfoco
 categories: [Politica, Politica Nacional]
-image: [https://commons.wikimedia.org/wiki/Special:FilePath/Brasilia%20skyline.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4f/Ag%C3%AAncia_do_BRB_%2848991028416%29.jpg)
+image: https://upload.wikimedia.org/wikipedia/commons/4/4f/Ag%C3%AAncia_do_BRB_%2848991028416%29.jpg
 ---
 
 Um ex-presidente do Banco de Brasília (BRB) está no centro de uma investigação que apura o suposto recebimento de aproximadamente R$ 140 milhões em propina, valor que teria sido ocultado por meio da aquisição de imóveis de alto padrão. As informações foram divulgadas em reportagem do <a href="https://www.terra.com.br/noticias/brasil/ex-presidente-do-brb-recebeu-propina-de-r-140-mi-em-6-imoveis-de-luxo-diz-jornal,564a36c7aa3bc9fd76219b1e1a1ddb37flrprtv8.html">Terra</a>.

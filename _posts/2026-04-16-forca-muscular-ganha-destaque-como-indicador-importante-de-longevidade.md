@@ -1,10 +1,9 @@
-```markdown id="n8w4qz"
 ---
 layout: post
 title: 'Força muscular ganha destaque como indicador importante de longevidade'
 author: bememfoco
 categories: [Saúde]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Strength_training.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/d/d9/Personal_fitness_training_bundall.jpg
 ---
 
 A força muscular tem se consolidado como um dos principais indicadores de saúde e longevidade, segundo especialistas. Mais do que estética ou desempenho esportivo, a capacidade física passou a ser vista como um marcador relevante do envelhecimento saudável e da qualidade de vida. O tema foi abordado em reportagem do <a href="https://www.terra.com.br/vida-e-estilo/saude/saude-muscular-como-marcador-vital-por-que-a-forca-fisica-virou-um-dos-principais-indicadores-de-longevidade,e98333f86dbac438b29e187cf0e03490s28l4kuc.html">Terra</a>.
@@ -28,4 +27,4 @@ A reportagem do <a href="https://www.terra.com.br/vida-e-estilo/saude/saude-musc
 Outro ponto importante é a combinação entre atividade física e alimentação adequada. O consumo de proteínas, por exemplo, desempenha papel essencial na manutenção e no desenvolvimento da massa muscular, especialmente quando aliado à prática de exercícios.
 
 Por fim, a crescente valorização da força muscular como indicador de longevidade reflete uma mudança na forma como a saúde é compreendida. Conforme destacado pela reportagem do <a href="https://www.terra.com.br/vida-e-estilo/saude/saude-muscular-como-marcador-vital-por-que-a-forca-fisica-virou-um-dos-principais-indicadores-de-longevidade,e98333f86dbac438b29e187cf0e03490s28l4kuc.html">Terra</a>, cuidar do corpo vai além da aparência e se torna uma estratégia fundamental para viver mais e melhor.
-```
+

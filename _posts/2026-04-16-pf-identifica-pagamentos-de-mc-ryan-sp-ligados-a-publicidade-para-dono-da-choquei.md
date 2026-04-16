@@ -3,7 +3,7 @@ layout: post
 title: 'PF identifica pagamentos de MC Ryan SP ligados a publicidade para dono da Choquei'
 author: bememfoco
 categories: [Polícia]
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Policia_Federal_do_Brasil.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/d/da/Choquei.jpg
 ---
 
 A Polícia Federal identificou movimentações financeiras envolvendo o cantor MC Ryan SP que somam cerca de R$ 270 mil, relacionadas a pagamentos por publicidade destinados ao responsável pela página Choquei. As informações foram divulgadas em reportagem do <a href="https://www.terra.com.br/noticias/brasil/policia/pf-encontrou-pagamentos-de-r-270-mil-em-publicidade-de-mc-ryan-sp-para-dono-da-choquei-diz-advogado,eb86bcf1b2e5646576011df05a9fe9a2wmpbbtcc.html">Terra</a>.
